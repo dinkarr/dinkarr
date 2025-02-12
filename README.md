@@ -1,5 +1,5 @@
 
-- # 👋 Hi, I’m Dinkar  
+# 👋 Hi, I’m Dinkar  
 
 💡 **Interests:** Deep Learning, LLMs, CNNs, AI/ML, Web Development  
 📚 **Currently Learning:** RAG Models, Data Engineering, Full-Stack Dev (Flask + React)  
