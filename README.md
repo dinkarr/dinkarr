@@ -5,7 +5,7 @@
 📚 **Currently Learning:** RAG Models, Data Engineering, Full-Stack Dev (Flask + React)  
 🛠 **Skills:** Machine Learning, NLP, Data Analytics, Python, SQL, Web Dev  
 🤝 **Looking to Collaborate On:** AI/ML projects, Data Science, Optimization, Web Apps  
-📫 **Reach Me:** [GitHub](https://github.com/dinkarr) | [LinkedIn](#)  
+📫 **Reach Me:** [GitHub](https://github.com/dinkarr)  
 ⚡ **Fun Fact:** I love building and optimizing AI models & web apps!  
 
 <!---
