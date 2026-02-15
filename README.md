@@ -16,13 +16,13 @@ I am a Data Scientist specializing in end-to-end Computer Vision systems. I own 
 
 ### Featured Projects
 
-#### [Semantic Segmentation with DINOv2](https://github.com/dinkarr/Semantic-Segmentation-using-DINOv2-and-UNet)
+#### [Semantic Segmentation with DINOv2](https://github.com/dinkarrsharma/Semantic-Segmentation-using-DINOv2-and-UNet)
 Developed a high-accuracy segmentation model using a **DINOv2 Vision Transformer** backbone on the Pascal VOC dataset. Implemented pyramid pooling and Lovász loss to achieve **87.9% pixel accuracy**.
 
-#### [Speech Deepfake Detection](https://github.com/dinkarr/IndicTTS-Deepfake-Challenge)
+#### [Speech Deepfake Detection](https://github.com/dinkarrsharma/IndicTTS-Deepfake-Challenge)
 Fine-tuned **WavLM-large** to detect synthetic speech across 16 Indian languages. Processed 33K+ audio samples using self-supervised learning strategies to improve ROC-AUC scores.
 
-#### [Multilingual Sentiment Analysis](https://github.com/dinkarr/Multilingual-Sentiment-Analysis-Using-LoRA-and-LLaMA-3.1-8B)
+#### [Multilingual Sentiment Analysis](https://github.com/dinkarrsharma/Multilingual-Sentiment-Analysis-Using-LoRA-and-LLaMA-3.1-8B)
 Leveraged **LLaMA 3.1-8B** and **LoRA** to perform efficient sentiment analysis for 13 Indian languages, optimizing memory usage and performance via Hugging Face Transformers.
 
 ---
