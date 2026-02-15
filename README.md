@@ -39,4 +39,4 @@ Leveraged **LLaMA 3.1-8B** and **LoRA** to perform efficient sentiment analysis 
 
 ---
 
-*“Turning complex data into real-time visual intelligence.”*
+“Turning complex data into real-time visual intelligence.”
