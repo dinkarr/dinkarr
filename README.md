@@ -1,6 +1,6 @@
 # Hi there, I'm Dinkar R Sharma
 
-**Data Scientist | Computer Vision Specialist**
+**Data Scientist | Applied Computer Vision**
 
 I am a Data Scientist specializing in end-to-end Computer Vision systems. I own the full lifecycle of AI products—from problem formulation and deep learning model development to building high-performance real-time inference pipelines for production deployment.
 
@@ -11,7 +11,7 @@ I am a Data Scientist specializing in end-to-end Computer Vision systems. I own 
 
 ### Core Expertise
 
-* **Computer Vision:** Real-time Object Tracking (Sports Analytics), Semantic Segmentation (DINOv2, ViT), Object Detection (YOLO, R-CNN), Super-Resolution (RCAN).
+* **Applied Computer Vision:** Real-time Object Tracking (Sports Analytics), Semantic Segmentation (DINOv2, ViT), Object Detection (R-CNN & Faster R-CNN), Super-Resolution (RCAN).
 * **Deep Learning & NLP:** Fine-tuning LLMs (LLaMA 3.1, LoRA), Audio Classification (WavLM), Self-Supervised Learning.
 * **Production:** Real-time Inference Pipelines, Model Optimization, FastAPI, Flask.
 
@@ -25,9 +25,6 @@ Fine-tuned **WavLM-large** to detect synthetic speech across 16 Indian languages
 
 #### [Multilingual Sentiment Analysis](https://github.com/dinkarr/Multilingual-Sentiment-Analysis-Using-LoRA-and-LLaMA-3.1-8B)
 Leveraged **LLaMA 3.1-8B** and **LoRA** to perform efficient sentiment analysis for 13 Indian languages, optimizing memory usage and performance via Hugging Face Transformers.
-
-#### [Low Light Mosquito Detection](https://github.com/dinkarr/Mosquito-Detection-and-Classification)
-Optimized **YOLOv8** for the detection and classification of mosquito species in challenging low-light environments, focusing on high Mean Average Precision (mAP).
 
 ---
 
