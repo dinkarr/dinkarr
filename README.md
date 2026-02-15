@@ -42,10 +42,4 @@ Optimized **YOLOv8** for the detection and classification of mosquito species in
 
 ---
 
-### GitHub Stats
-![Dinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinkarr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinkarr&layout=compact&theme=tokyonight)
-
----
-
 *“Turning complex data into real-time visual intelligence.”*
